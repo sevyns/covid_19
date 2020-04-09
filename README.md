@@ -1,2 +1,3 @@
-# covid_19
-Repo for collecting covid_19 related work
+# COVID 19 Analysis
+
+This repository contains work related to reporting and analysis of data collected for COVID-19.
